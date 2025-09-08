@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("Desktop.Avalonia.SRI.Download.XML")]
+[assembly: AssemblyTitle("Desktop.WinForm.SRI.Download.XML")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Desktop.Avalonia.SRI.Download.XML")]
+[assembly: AssemblyProduct("Desktop.WinForm.SRI.Download.XML")]
 [assembly: AssemblyCopyright("Copyright ©  2025")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

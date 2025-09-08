@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Desktop.Avalonia.SRI.Download.XML
+namespace Desktop.WinForm.SRI.Download.XML
 {
     internal static class Program
     {

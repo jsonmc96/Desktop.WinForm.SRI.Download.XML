@@ -2,7 +2,7 @@
 //using System.ComponentModel;
 //using System.Windows.Forms;
 
-//namespace Desktop.Avalonia.SRI.Download.XML
+//namespace Desktop.WinForm.SRI.Download.XML
 //{
 //    public partial class Form1 : Form
 //    {
@@ -74,7 +74,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Xml;
 
-namespace Desktop.Avalonia.SRI.Download.XML
+namespace Desktop.WinForm.SRI.Download.XML
 {
     public partial class Form1 : Form
     {

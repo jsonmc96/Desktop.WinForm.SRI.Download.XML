@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Desktop.Avalonia.SRI.Download.XML.Properties
+namespace Desktop.WinForm.SRI.Download.XML.Properties
 {
 
 
@@ -44,7 +44,7 @@ namespace Desktop.Avalonia.SRI.Download.XML.Properties
             {
                 if ((resourceMan == null))
                 {
-                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Desktop.Avalonia.SRI.Download.XML.Properties.Resources", typeof(Resources).Assembly);
+                    global::System.Resources.ResourceManager temp = new global::System.Resources.ResourceManager("Desktop.WinForm.SRI.Download.XML.Properties.Resources", typeof(Resources).Assembly);
                     resourceMan = temp;
                 }
                 return resourceMan;

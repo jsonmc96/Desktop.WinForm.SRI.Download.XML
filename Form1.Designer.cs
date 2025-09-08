@@ -1,7 +1,7 @@
 ﻿using System.Drawing;
 using System.Windows.Forms;
 
-namespace Desktop.Avalonia.SRI.Download.XML
+namespace Desktop.WinForm.SRI.Download.XML
 {
     partial class Form1
     {
