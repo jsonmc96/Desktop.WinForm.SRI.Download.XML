@@ -1,0 +1,15 @@
+# Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Archivos de Visual Studio Code
+.vscode/
+
+# Otros temporales
+*.tmp
+*.bak
